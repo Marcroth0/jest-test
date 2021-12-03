@@ -1,0 +1,22 @@
+{
+  "name": "api-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcroth0/api-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcroth0/api-101/issues"
+  },
+  "homepage": "https://github.com/Marcroth0/api-101#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
